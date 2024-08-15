@@ -2,7 +2,7 @@
 
 라즈베리 파이와 여러가지의 센서, 제어 장치들을 통합하여 자동화된 IoT Car 시스템을 구축했습니다.
 기본 기능과 driving mode, parking mode의 기능들이 있습니다.
-
+맡은 역할 : Driving Mode - Anti-Collision System, Auto Window System, Safety Mode, Light System
 ## 기본 기능
 1. Crash Detection
    - 센서 : Knock sensor
